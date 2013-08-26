@@ -1390,7 +1390,7 @@ footer .credits {
 
 .slide-content {
 	line-height: 46pt;
-	margin-top: 260px;
+	margin-top: 270px !important;
 }
 
 .slide-header {
