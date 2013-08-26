@@ -1,3 +1,26 @@
+@media (min-width: 980px) {
+.slide-content {
+	line-height: 46pt;
+	margin-top: 450px !important; 
+}
+
+.slide-header {
+	font-size: 22pt;
+	line-height: 26pt;
+	max-width: 670px;
+	margin: 20pt auto 0 auto;
+}
+
+#home-slider .slider-text {
+	margin: 20px auto;
+	width: 100%;
+	max-width: 1170px;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+}
+
 @media (min-width: 768px) and (max-width: 979px) {
 	#menu {
 		display: none;	
